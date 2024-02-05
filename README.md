@@ -13,6 +13,8 @@ The dataset used for this project is highly varied and detailed, featuring image
 
 Here you will find all the steps to create and train your model.  </br>
 
+We recommend working in Google Colab, as the data volume is high and the model training process will take a long time, consuming a lot of your PC's RAM until it finishes if you run it locally. </br>
+
 ## Model
 
 A Convolutional Neural Network (CNN) model has been used to train and classify the images. CNNs are particularly adept at analyzing images and have proven effective in image classification tasks.
@@ -20,4 +22,5 @@ A Convolutional Neural Network (CNN) model has been used to train and classify t
 ## Streamlit App
 
 We have developed a Streamlit application that allows users to upload their own plant images for diagnosis, where the application processes the image through our model and returns a diagnosis. </br>
+
 You can access the Streamlit app through the following [link](https://www.upgrade-hub.com/). </br>
