@@ -37,7 +37,7 @@ traducciones = ['Manzana___Sarna del manzano', 'Manzana___Podredumbre negra',
 
 @st.cache_data()
 def load_model():
-    model = tf.keras.models.load_model('modelo/plantas.h5')
+    model = tf.keras.models.load_model('model/plantas.h5')
     return model
 
 def process_image(image_path):
