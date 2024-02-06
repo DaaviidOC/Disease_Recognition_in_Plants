@@ -23,4 +23,4 @@ A Convolutional Neural Network (CNN) model has been used to train and classify t
 
 We have developed a Streamlit application that allows users to upload their own plant images for diagnosis, where the application processes the image through our model and returns a diagnosis. </br>
 
-You can access the Streamlit app through the following [link](https://apppy-imjfpbdqng9ugjxumauper.streamlit.app/). </br>
+You can access the Streamlit app through the following [link](https://apppy-imjfpbdqng9ugjxumauper.streamlit.app/). Remember download the data before. </br>
