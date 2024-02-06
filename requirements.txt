@@ -1,1 +1,1 @@
-import tensorflow as tf
+tensorflow==2.6.0
